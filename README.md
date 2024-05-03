@@ -1,2 +1,18 @@
-# Overwatch2Workshop
-Workshop code for Overwatch 2.
+# 守望先锋归来 工坊代码
+by SecondGear#
+## OW2 躲避堡垒
+### 源码
+`OW2_Bastion_Escape\OW2_BE_CN.ini`
+### 亚服代码
+`MBAX6`
+### To do
+- [x] 修复直布罗陀重生室重做的UI错位
+- [x] 修复麦克雷无限六连bug
+- [x] 实现开发者一键解锁全部英雄
+- [x] 实现开发者一键通关
+- [x] 两小时后自动重启
+- [x] 修复通关者&开发者轮廓丢失
+- [x] 修复黑影重做机制
+- [x] 房主移交测试（待优化）
+- [ ] 花男交互重做
+- [ ] 规则名称汉化
